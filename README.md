@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# AdminTimeWeb
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Descripción
+AdminTime es un proyecto web desarrollado con React que se inició en diciembre del 2022.
+La aplicación es un gestor de tiempo que permite a los usuarios registrar y monitorear el tiempo dedicado a tareas específicas en un entorno de trabajo. El objetivo de esta aplicación es ayudar a los usuarios a aumentar su productividad y eficiencia en el trabajo.
 
-## Available Scripts
+## Tecnologías utilizadas
+- React
+- SCSS Modules
 
-In the project directory, you can run:
+## Funcionalidades
+- Monitoreo del tiempo dedicado a cada tarea.
+<!-- - Registro de tareas. -->
+<!-- - Posibilidad de agregar notas y comentarios a las tareas. -->
+<!-- - Generación de informes y estadísticas de uso. -->
 
-### `npm start`
+## Instalación
+- Clonar el repositorio en tu máquina local.
+- Ejecutar el comando npm install en la terminal.
+- Ejecutar el comando npm start para iniciar la aplicación.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Contribución
+Si desea contribuir al proyecto, siga estos pasos:
+- Hacer un fork del repositorio
+- Crear una rama con la nueva funcionalidad: git checkout -b nueva-funcionalidad
+- Hacer commit de los cambios: git commit -m "Agregada nueva funcionalidad"
+- Hacer push de la rama: git push origin nueva-funcionalidad
+- Crear un pull request en la rama principal del repositorio
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Autor
+- Manuel Diaz [![Linkedin: manueld1az](https://img.shields.io/badge/-manueld1az-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manueld1az-p-singh/)](https://www.linkedin.com/in/manueld1az)
+[![Discord: manueld1az](https://img.shields.io/badge/-manueld1az-purple?style=flat&logo=Discord&logoColor=white&link=https://www.discord.com/in/manueld1az-p-singh/)](https://discord.gg/zPw5BUwYKz)
+[![GitHub: manueld1az](https://img.shields.io/badge/-manueld1az-gray?style=flat&logo=GitHub&logoColor=white&link=https://www.github.com/manueld1az-p-singh/)](https://github.com/manueld1az)
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<!-- ## Licencia
+Este proyecto está licenciado bajo la [Nombre de la licencia](URL de la licencia). -->
